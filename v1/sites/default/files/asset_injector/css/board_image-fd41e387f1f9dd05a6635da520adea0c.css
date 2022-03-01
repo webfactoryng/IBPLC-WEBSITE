@@ -1,0 +1,15 @@
+#boardm{
+  display:block;
+  position:relative;
+  float:left;
+  clear:left;
+  width:200px;
+  height:auto;
+  
+}
+#block-ibplc-content p{
+  display:block;
+  position:relative;
+  float:left;
+  clear:left;  
+}

@@ -1,0 +1,19 @@
+.content {
+  display:block;
+  margin-left:140px;
+}
+.block-title{
+  display:block;
+  margin-left:140px;
+  
+}
+.social-media-sharing{
+  display:none;
+}
+.list-group__link a{
+  font-size:18px;
+}
+.list-group__description{
+  display:none;
+  float:left;
+}

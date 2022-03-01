@@ -1,0 +1,44 @@
+@media screen and (min-width: 700px) {
+
+.block-title{
+  margin-left:16px;
+  font-size:32px;
+  margin-bottom:40px;
+}
+
+#block-views-block-mediapage-updates-block-1 > div > div > div > div > div:nth-child(1){
+  display:block;
+  width:66.5%;
+  height:350px;
+  background-color:#fff;
+}
+#block-views-block-mediapage-updates-block-1 > div > div > div > div > div:nth-child(1) .boxheight{
+  height:320px;
+  overflow:hidden;
+}
+#block-views-block-mediapage-updates-block-1 > div > div > div > div > div:nth-child(1) .boxcat{
+  display:block;
+  position:absolute;
+  width:50.5%;
+  left:48.5%;
+  top:0px;
+  background-color:#fff;
+  padding-left:2%;
+  padding-right:2%;
+}
+#block-views-block-mediapage-updates-block-1 > div > div > div > div > div:nth-child(1) .boxtitle{
+  display:block;
+  position:absolute;
+  width:50.5%;
+  left:48.5%;
+  top:30px;
+  background-color:#fff;
+  padding-left:2%;
+  padding-right:2%;
+  height:320px;
+  font-size:32px;
+  line-height:25px;
+}
+  
+
+}

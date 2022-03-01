@@ -1,0 +1,20 @@
+name: IBPLC
+type: theme
+base theme: classy
+description: Drupal Theme for IBPLC.
+# core: 8.x
+regions:
+  primary_menu: 'Primary menu'
+  main_banner: Main banner
+  media_updates: Media updates
+  ibplc_content: IBPLC content
+  content: Main content
+  footer: Footer
+screenshot: screenshot.png
+libraries:
+  - ibplc/global
+# Information added by Drupal.org packaging script on 2016-01-29
+version: '8.x-1.0'
+core: '8.x'
+project: 'ibplc'
+datestamp: 1454052240

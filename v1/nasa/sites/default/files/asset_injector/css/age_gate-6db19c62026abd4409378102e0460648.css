@@ -1,0 +1,118 @@
+#age-gate{
+display:none;
+position:fixed;
+top:0px;
+right:0px;
+left:0px;
+bottom:0px;
+width:100vw;
+height:100vh;
+background-color:rgba(0,0,0,0.9);
+z-index:9000;
+
+}
+
+#age-form{
+border-style:solid;
+border-width:0px;
+border-color:#B92028;
+background-color:none;
+min-height:500px;
+width:60%;
+margin-right:auto;
+margin-left:auto;
+margin-top:100px;
+position:relative;
+display:block;
+background-image:url(https://ibplc.nigerium.com/bggate.jpg);
+background-size:cover;
+}
+
+.slider-caption{
+margin-left:20px;
+}
+
+.parallax-widgetx{
+margin-top:40px;
+}
+#main-menu a
+{
+font-size:14px;
+font-weight:bold;
+color:#41130F;
+margin-top:15px;
+}
+#main-menu .active a
+{
+font-weight:bold;
+color:#B92028;
+}
+.parallax-widget .container{
+background-color:rgba(255,255,255,0.3);
+}
+@media (max-width:750px)
+{
+.ibboard
+{
+display:block;
+float:left;
+width:250px;
+margin-right:0px;
+margin-bottom:30px;
+text-align:center;
+}
+.ibboard img{
+width:100%;
+margin-left:20px;
+position:relative;
+display:block;
+}
+.ibboard figcaption{
+width:250px;
+font-weight:bold;
+margin-left:20px;
+position:relative;
+}
+.form-search{
+width:90%;
+}
+
+#age-form{
+display:block;
+width:98%;
+position:relative;
+margin-right:auto;
+margin-left:auto;
+padding:30px;
+font-size:20px;
+}
+#age-form label{
+width:32%;
+float:left;
+display:block;
+color:#ccc;
+background-color:#B92028;
+padding:2px;
+}
+#age-form select{
+width:100%;
+padding:3px;
+color:#000;
+font-size:12px;
+}
+.selectpd{
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  width:70%;
+  text-align:center;
+  margin-top:30px;
+  background-color:green;
+}
+#age-gate img{
+  background-color:#fff;
+  
+}
+.ab-slider--controls{
+  display:none;
+}

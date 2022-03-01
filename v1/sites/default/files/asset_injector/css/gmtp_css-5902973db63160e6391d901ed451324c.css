@@ -1,0 +1,1095 @@
+ 
+  #gmba {
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 40px 15px 0px;
+    padding: 0;
+  }
+
+  #gmba > div {
+    width: ;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmba {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 70px 8.33%;
+      padding: ;
+    }
+
+    #gmba > div {
+      width: ;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 5%;
+      padding-left: 0px;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 992px) {
+    #gmba {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 115px  5.33% 115px 8.33%;
+      padding: ;
+    }
+
+    #gmba > div {
+      width: ;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 5%;
+      padding-left: 0px;
+    }
+  }
+ 
+
+<style>
+	.parallax {
+		position: relative;
+		background-repeat: no-repeat;
+		max-height: 50vh;
+	}
+
+	.parallax__content {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		padding: 1rem;
+		display: flex;
+		align-items: ;
+		justify-content: ;
+		color: ;
+		background: rgba(0, 0, 0, );
+		text-shadow: 1px 1px 1px black;
+	}
+
+	.parallax__content__container {
+		width: 100%;
+		min-width: 300px;
+		max-width: 1200px;
+		display: flex;
+		justify-content: ;
+	}
+
+	.parallax__content__container > .section {
+		width: auto;
+	}
+
+	#gmt {
+		min-height: 250px;
+		background-image: url("/content/dam/universaltemplate/ab-inbev/Careers/redesign/gmt/ABI_GMT_InPageLetterbox_01_DESK_1440x570px.jpg");
+	}
+
+	@media (min-width: 768px) {
+		#gmt {
+			min-height: 400px;
+			background-image: url("/content/dam/universaltemplate/ab-inbev/Careers/redesign/gmt/ABI_GMT_InPageLetterbox_01_DESK_1440x570px.jpg");
+			background-size: cover;
+		}
+	}
+ 
+
+ 
+  #gmt-2 {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 25px 15px;
+    padding: 0;
+  }
+
+  #gmt-2 > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmt-2 {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 75px 8.33% 50px;
+      padding: ;
+    }
+
+    #gmt-2 > div {
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+ 
+
+ 
+  #gmt-3 {
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 0;
+  }
+
+  #gmt-3 > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmt-3 {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      margin: 30px 8.33% 10px;
+      padding: ;
+    }
+
+    #gmt-3 > div {
+      width: 50%;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 0px;
+      padding-left: 7%;
+    }
+  }
+ 
+
+ 
+  #gmba2 {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 0;
+  }
+
+  #gmba2 > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmba2 {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      margin: 0 8.33% 10px;
+      padding: 0;
+    }
+
+    #gmba2 > div {
+      width: 50%;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 7%;
+      padding-left: 0px;
+    }
+  }
+ 
+
+
+ 
+  #gmba5 {
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 0;
+  }
+
+  #gmba5 > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmba5 {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      margin: 0 8.33% 10px;
+      padding: ;
+    }
+
+    #gmba5 > div {
+      width: 50%;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 0px;
+      padding-left: 7%;
+    }
+  }
+ 
+
+ 
+  #gmba4 {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 0;
+  }
+
+  #gmba4 > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmba4 {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      margin: 0 8.33% 60px;
+      padding: ;
+    }
+
+    #gmba4 > div {
+      width: 50%;
+      margin-top: 0px;
+      margin-bottom: 20px;
+      padding-right: 7%;
+      padding-left: 0px;
+    }
+  }
+ 
+
+<style>
+	.parallax {
+		position: relative;
+		background-repeat: no-repeat;
+		max-height: 50vh;
+	}
+
+	.parallax__content {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		padding: 1rem;
+		display: flex;
+		align-items: ;
+		justify-content: ;
+		color: ;
+		background: rgba(0, 0, 0, );
+		text-shadow: 1px 1px 1px black;
+	}
+
+	.parallax__content__container {
+		width: 100%;
+		min-width: 300px;
+		max-width: 1200px;
+		display: flex;
+		justify-content: ;
+	}
+
+	.parallax__content__container > .section {
+		width: auto;
+	}
+
+	# {
+		min-height: 200px;
+		background-image: url("");
+	}
+
+	@media (min-width: 768px) {
+		# {
+			min-height: 600px;
+			background-image: url("/content/dam/universaltemplate/ab-inbev/Careers/redesign/gmt/ABI_GMT_InPageLetterbox_02_DESK_1440x570.jpg");
+			background-size: cover;
+		}
+	}
+ 
+
+ 
+  #gmba8 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 20px 15px 0;
+    padding: 0;
+  }
+
+  #gmba8 > div {
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #gmba8 {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+      margin: 0 8.33%;
+      padding: ;
+    }
+
+    #gmba8 > div {
+      width: 50%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+      padding-right: 5%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  #tabbed-overlay-1 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: auto;
+  }
+
+  #tabbed-overlay-1 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-1 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-1 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-1 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-1 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  #tabbed-overlay-2 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 35px 20px;
+  }
+
+  #tabbed-overlay-2 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-2 {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 35px 20px;
+      padding: auto;
+    }
+
+    #tabbed-overlay-2 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-2 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: 100px 40px ;
+    }
+
+    #tabbed-overlay-2 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+
+
+
+ 
+  #tabbed-overlay-3 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: auto;
+  }
+
+  #tabbed-overlay-3 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-3 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-3 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-3 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-3 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  #tabbed-overlay-4 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 35px 20px;
+  }
+
+  #tabbed-overlay-4 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-4 {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 35px 20px;
+      padding: auto;
+    }
+
+    #tabbed-overlay-4 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-4 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: 100px 40px;
+    }
+
+    #tabbed-overlay-4 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  #tabbed-overlay-5 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: auto;
+  }
+
+  #tabbed-overlay-5 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-5 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-5 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-5 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-5 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+
+ 
+  #tabbed-overlay-6 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: auto;
+  }
+
+  #tabbed-overlay-6 > div {
+    width: 50%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+ 
+
+ 
+  @media(min-width: 480px) {
+    #tabbed-overlay-6 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-6 > div {
+      width: 33%;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      padding-right: 0%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  @media(min-width: 768px) {
+    #tabbed-overlay-6 {
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: auto;
+      padding: auto;
+    }
+
+    #tabbed-overlay-6 > div {
+      width: 24%;
+      margin-top: 0%;
+      margin-bottom: 1%;
+      padding-right: 2%;
+      padding-left: 0%;
+    }
+  }
+ 
+
+ 
+  #timeline {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 10px 15px 25px;
+    padding: 0;
+  }
+
+  #timeline > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #timeline {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 70px 8.33%;
+      padding: ;
+    }
+
+    #timeline > div {
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+ 
+
+
+
+
+
+ 
+  #graphic {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0 0 15px;
+    padding: 0;
+  }
+
+  #graphic > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #graphic {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 0 8.33% 30px;
+      padding: ;
+    }
+
+    #graphic > div {
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+ 
+
+ 
+  #read {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 35px 0 0 ;
+    padding: 0;
+  }
+
+  #read > div {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #read {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: 50px -10px 0;
+      padding: 0 8.33%;
+    }
+
+    #read > div {
+      width: 100%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+ 
+
+
+
+ 
+  #footer {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin: 0;
+    padding: 7vw 15px;
+  }
+
+  #footer > div {
+    width: autopx;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+ 
+
+
+
+ 
+  @media(min-width: 768px) {
+    #footer {
+      flex-direction: column;
+      flex-wrap: nowrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      margin: ;
+      padding: 7vw 8.33%;
+    }
+
+    #footer > div {
+      width: autopx;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+ 
+
+
+
+
+
+
+
+@media only screen and (min-width: 1031px)
+.text.parbase .callout h1, .text.parbase .callout h1>a, .text.parbase .callout h1>span {
+    font-size: 70px;
+    line-height: 58px;
+}
+@media only screen and (min-width: 768px)
+.text.parbase .callout h1, .text.parbase .callout h1>a, .text.parbase .callout h1>span {
+    font-size: 50px;
+    line-height: 45px;
+}
+.text.parbase .callout h1, .text.parbase .callout h1>a, .text.parbase .callout h1>span {
+    font-family: "FlamaCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.text.parbase .callout h1 {
+    margin: 0;
+}
+.rte-text .op1 h1, .title.parbase .op1 h1, .text.parbase .op1 h1, .rte-text .op1 h2, .title.parbase .op1 h2, .text.parbase .op1 h2, .rte-text .op1 h3, .title.parbase .op1 h3, .text.parbase .op1 h3, .rte-text .op1 h4, .title.parbase .op1 h4, .text.parbase .op1 h4, .rte-text .op1 h5, .title.parbase .op1 h5, .text.parbase .op1 h5, .rte-text .op1 h6, .title.parbase .op1 h6, .text.parbase .op1 h6, .rte-text .op1 p, .title.parbase .op1 p, .text.parbase .op1 p {
+    color: #000;
+}
+@media only screen and (min-width: 768px)
+.desktop70, .rte-text h1, .title.parbase h1, .text.parbase h1, .rte-text h1>a, .title.parbase h1>a, .text.parbase h1>a, .rte-text h1>span, .title.parbase h1>span, .text.parbase h1>span, .text.parbase .careers-heading h1, .text.parbase .careers-heading h1>a, .text.parbase .careers-heading h1>span {
+    font-size: 70px;
+    line-height: 58px;
+}
+.desktop70, .rte-text h1, .title.parbase h1, .text.parbase h1, .rte-text h1>a, .title.parbase h1>a, .text.parbase h1>a, .rte-text h1>span, .title.parbase h1>span, .text.parbase h1>span, .text.parbase .careers-heading h1, .text.parbase .careers-heading h1>a, .text.parbase .careers-heading h1>span {
+    font-family: "FlamaCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    line-height: 41px;
+    font-weight: 600;
+}
+h1, h2 {
+    line-height: 1.25em;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #231f20;
+    font-weight: 700;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.rte-text div, .title.parbase div, .text.parbase div {
+    line-height: normal;
+}
+p, a, li, td, div, h5, h6, span {
+    line-height: 2em;
+}
+body {
+    padding-top: 3.5
+rem
+;
+    background-color: #fff;
+    color: #636466;
+    overflow-x: hidden;
+}
+body {
+    line-height: 1;
+}
+html {
+    box-sizing: border-box;
+    font-family: canada-type-gibson,sans-serif;
+    font-size: 1rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+ 

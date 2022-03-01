@@ -1,0 +1,58 @@
+.card-body a{
+  font-weight:bold;
+  font-size:14px;
+  line-height:1em;
+  color:#000;
+}
+.card-body .card-body--title{
+  line-height:8px;
+}
+.home-hero--popular-stories .card-image {
+    margin-top:-30px;
+
+}
+.boxheight{
+  display:block;
+  height:180px;
+  overflow:hidden;
+}
+.ibrow{
+  min-height:350px;
+}
+.eyebrow{
+  line-height:11px;
+  margin-bottom:2px;
+  text-transform:uppercase;
+  color:#B92028;
+}
+.boxcat{
+  text-transform:uppercase;
+  color:#B92028;
+  padding-top:7px;
+  padding-bottom:7px;
+}
+.homecolxxxx{
+  width: 412.667px; 
+  flex-basis: 412.667px;
+}
+.home-hero--featured .region-main_banner #block-views-block-home-banner-block-1{
+  width:100%;
+}
+.ibplc-content{
+  width:100%;
+}
+.field--name-field-content-group{
+  display:none;
+}
+.boxdate{
+  font-size:13px;
+}
+.boxtitle{
+  text-transform: capitalize;
+}
+.home-hero--featured .view-content{
+  width:100vw;
+  position:absolute;
+  top:0px;
+}
+

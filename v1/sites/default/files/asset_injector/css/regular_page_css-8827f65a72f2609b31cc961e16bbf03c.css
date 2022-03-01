@@ -1,0 +1,29 @@
+.page-titlexy{
+  font-size:300%;
+  position:absolute;
+  text-align:center;
+  color:#B92028;
+  padding-top:15%;
+}
+
+.content .page-title{
+  font-size:300%;
+  position:absolute;
+  text-align:center;
+  color:#fff;
+  padding-top:15%;
+}
+.jjj{
+  width:100vw;
+}
+.normalpage{
+  color:#B92028;
+  padding-top:30px;
+}
+@media only screen and (min-width: 1000px) {
+.normalpage{
+  color:#B92028;
+  margin-left:-100px;
+  font-weight:normal;
+}
+}

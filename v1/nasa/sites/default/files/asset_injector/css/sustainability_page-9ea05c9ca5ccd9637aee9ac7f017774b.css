@@ -1,0 +1,8 @@
+#block-ibplc-content > div > article > div > div.clearfix.text-formatted.field.field--name-body.field--type-text-with-summary.field--label-hidden.field__item > ul > li{
+background-color:#000;
+height:239px;
+}
+#block-ibplc-content > div > article > div > div.clearfix.text-formatted.field.field--name-body.field--type-text-with-summary.field--label-hidden.field__item img{
+  opacity:0.4;
+  background-color:#000;
+}

@@ -1,0 +1,1 @@
+<?php header("Location: https://www.international-breweries.com/v1"); ?>

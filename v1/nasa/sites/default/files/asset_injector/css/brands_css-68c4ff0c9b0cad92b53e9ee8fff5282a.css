@@ -1,0 +1,62 @@
+.ibplcbrands{
+  display:block;
+  width:80%;
+  margin-right:auto;
+  margin-left:auto;
+}
+img{
+  width:auto;
+}
+.views-field.views-field-body ul{
+  display:block;
+  text-align:center;
+  width:100%;
+}
+.views-field.views-field-body ul li{
+  display:block;
+  float:left;
+  width:20px;
+}
+.views-field-field-brand-image img{
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+#views_slideshow_cycle_main_brand_carousel-block_1{
+  display:block;
+  width:100%;
+}
+.brandw{
+  display:block;
+  width:600px;
+  position:relative;
+  margin-right:auto;
+  margin-left:auto;
+}
+.brandb{
+  display:block;
+  width:100px;
+  float:left;
+  position:relative;
+    margin-right:30px;
+
+}
+.brandn{
+  display:block;
+  width:200px;
+  float:left;
+  position:relative;
+}
+#block-socialsharingblock{
+  display:none;
+}
+#slick-views-brand-carousel-block-1-1-slider{
+  margin-top:90px;
+  margin-right:50px;
+  margin-left:50px;
+}
+.brandb img{
+  height:370px;
+  width:100px;
+}
+
